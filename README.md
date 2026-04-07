@@ -34,14 +34,14 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, SQL  
-- **Analytics:** Power BI, Excel  
-- **Data Platforms:** Databricks  
+- **Analytics:** Power BI, Tableau, Excel  
+- **Data Platforms:** Databricks, Jupyter
 - **Automation:** Selenium, Power Automate  
 
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/devesh-gaonkar  
+- LinkedIn: https://linkedin.com/in/deveshgaonkar  
 - Email: gaonkardevesh@gmail.com  
 
 ---
